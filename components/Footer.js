@@ -1,7 +1,7 @@
 const Footer = () => (
-  <div>
-    footer
-  </div>
+  <footer class="footer text-center">
+    <p>&copy; Company 2017</p>
+  </footer>
 )
 
 export default Footer
