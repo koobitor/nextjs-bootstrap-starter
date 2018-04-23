@@ -2,7 +2,7 @@
 ```
 git clone git@github.com:koobitor/nextjs-bootstrap-starter.git
 cd nextjs-bootstrap-starter
-npm install
+yarn
 npm run dev
 ```
 
